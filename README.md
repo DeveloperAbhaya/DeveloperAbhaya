@@ -1,5 +1,7 @@
 # Hello, I'm Abhaya Bikram Shahi! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/programmerabhaya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://abhayabikramshahi.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-informational)](https://twitter.com/DevAbhayaGuru/)
