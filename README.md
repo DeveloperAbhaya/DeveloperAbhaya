@@ -1,6 +1,6 @@
 # Hello, I'm Abhaya Bikram Shahi! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/programmerabhaya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://abhayabikramshahi.github.io/)
